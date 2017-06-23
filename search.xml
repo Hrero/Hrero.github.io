@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我的第一篇博客]]></title>
+    <url>%2F2017%2F06%2F23%2Ffirstblog%2F</url>
+    <content type="text"><![CDATA[前言熟悉Markdown语法才能编辑博客，所以就开了这篇为记录学习 标题1标题2标题3标题4标题5本文概述 不善言谈的我，也不知道写什么文本解析成&lt;p&gt; 正文 斜体文本解析成&lt;em&gt;，加粗文本解析成&lt;strong&gt; 列表 Red Green Blue 文本解析成&lt;li&gt; 高亮1不善言谈的我，也不知道写什么 123&lt;div class="lala"&gt; 高亮 &lt;/div&gt; 一般用 ``` + 语言 这种语法表示代码区域 添加链接 我的网站. 文本解析成&lt;a&gt; 添加图片 插入代码缩进 4 个空格或是一个 tab &lt;blockquote&gt; &lt;p&gt;For example.&lt;/p&gt; &lt;/blockquote&gt; 代码展示## 前言 熟悉Markdown语法才能编辑博客，所以就开了这篇为记录学习 ## 标题1 ### 标题2 #### 标题3 ##### 标题4 ###### 标题5 ## 本文概述 &gt; 不善言谈的我，也不知道写什么 &gt; 文本解析成`&lt;p&gt;` ## 正文 &gt; *斜体文本解析成`&lt;em&gt;`*，**加粗文本解析成`&lt;strong&gt;`** ### 列表 &gt; 1. Red &gt; 2. Green &gt; 3. Blue &gt; 4. 文本解析成`&lt;li&gt;` ### 添加链接 &gt; [我的网站](http://1.hrero.applinzi.com/ &quot;With a Title&quot;). &gt; 文本解析成`&lt;a&gt;` ### 添加图片 ![alt text](/images/v1.0.0/timg.jpg &quot;hexo+github:page&quot;) ### 插入代码 ##### 缩进 4 个空格或是一个 tab &gt; &lt;blockquote&gt; &gt; &lt;p&gt;For example.&lt;/p&gt; &gt; &lt;/blockquote&gt;]]></content>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F06%2F21%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
 </search>
